@@ -1,0 +1,47 @@
+[
+    {
+        "_id": 1,
+        "titulo": "PISTA 1- ganhadeira Joana",
+        "descricao": "Naquela época era comum escravos venderem para seus senhores nas praças e ficarem com uma pequena porção dos ganhos para si. Joana era ganhadeira assim como Inaê e estava na praça quando ambos chegaram na Bahia. Ela lembra que Itan foi vendido para alguém que vivia na capital da província.",
+        "opcao1":"Havana",
+        "opcao2":"Salvador",
+        "opcao3":"Estados Unidos",
+        "opcao4":"Uruguai"
+    },
+
+    {
+        "_id": 2,
+        "titulo": "PISTA 2- vendedor de peixe",
+        "descricao": "Ignácio vendia peixes quando viu Itan correndo pelo mercado com seu senhor. Ele dizia que iria viajar para um lugar conhecido por seus charutos.  O tráfico de escravos para a América foi proibido desde 1831, embora as décadas de 1840 e 1850 tiveram um grande número de africanos levados para servirem de escravos em países como Brasil e Cuba.",
+        "opcao1":"Cuba",
+        "opcao2":"Brasil",
+        "opcao3":"Colômbia",
+        "opcao4":"Haiti"
+    },
+
+    {
+        "_id": 3,
+        "titulo": "DICA 3 -  Esperança, africana liberta",
+        "descricao": "Esperança viu um menino e seu senhor caminhando pelos portos cubanos com as mesmas descrições que Inaê fez. Parece que estavam a bordo de um navio negreiro. O senhor de Itan levava escravizados para uma região de pampas e criação de gado, lá no Brasil. Parece que Itan era seu ajudante pessoal. ",
+        "opcao1":"São Paulo",
+        "opcao2":"Rio de Janeiro",
+        "opcao3":"Rio Grande do Sul",
+        "opcao4":"Recife"
+    },
+
+    {
+        "_id": 4,
+        "titulo": "DICA 4 - africana Maria de Jesus",
+        "descricao": "Maria de Jesus foi levada junto com Itan para o Rio Grande do Sul e vendida para trabalhar como ganhadeira nas ruas da cidade. Ela conta que Itan realmente trabalha diretamente com seu senhor, como ajudante na compra e venda de escravizados. Parece que eles partiram no último navio em direção à terra natal de Itan.",
+        "opcao1":"Golfo do Benin",
+        "opcao2":"República Dominicana",
+        "opcao3":"Rio Grande do Sul",
+        "opcao4":"Recife"
+    },
+
+    {
+        "_id": 5,
+        "titulo": "ENFIM, O ENCONTRO!",  
+        "descricao":"Olha, lá vaí Itan com seu senhor! Inaê quase não acredita que era mesmo seu filho! Ele já estava crescido mas também não tinha perdido a esperança de um dia rever sua mãe. Itan havia guardado um pouco de dinheiro e junto ao acumulado por sua mãe durante os anos, conseguiu pagar sua alforria. Embora muitos comerciantes ainda levassem pessoas ilegalmente para a América, o tráfico para o Brasil foi finalmente banido em 1851. Nessa época, um grande número de africanos retornaram para seu continente de origem, conhecidos como os retornados. Se instalaram na costa africana e levaram do Brasil muito do que viveram, novas experiências e culturas. Inaê e Itan fizeram parte dessa comunidade. O peso da escravidão continuou muito forte nos ombros de quem foi arrancado de sua vida e tratado como mercadoria em uma terra desconhecida. Tão grande que os resquícios duram até hoje."
+    }
+]

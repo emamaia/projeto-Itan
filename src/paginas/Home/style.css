@@ -1,0 +1,23 @@
+.game-container{
+    width: 60%;
+    background-color: #D5F2E3;
+    margin: 0 auto;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.game-pista{
+    width: 70%;
+    background-color: #73BA9B;
+    text-align: justify;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 20px;
+        
+}
+
+h3{
+    text-align: center;
+    color:#003E1F;
+}
