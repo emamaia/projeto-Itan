@@ -8,6 +8,6 @@ const config = {
 const protocolo = axios.create(config)
 
 export function getPistas() {
-  const url = '/pagina'
+  const url = './pagina'
   return protocolo.get(url)
 }

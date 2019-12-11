@@ -7,7 +7,7 @@ function Header(props) {
         <div className='header-container'>
             
             <div className='header-div'>
-                <img className='header-imagem' src={props.imagem}></img>
+                <img className='header-imagem' alt='Imagem de mulher e filho africanos'src={props.imagem}></img>
                 <div className='header-text'>
                     <h1>{props.titulo}</h1>
                     <p>{props.historia}</p>
