@@ -20,8 +20,7 @@ class Home  extends React.Component{
 
     componentDidMount() {
         getPistas()
-            .then(response => {
-                console.log(response);
+            .then(response => {               
                 
                 this.setState({
                   dica: response.data,
@@ -43,9 +42,7 @@ class Home  extends React.Component{
         })
     }
        
-    render(){ 
-
-        console.log(this.state);
+    render(){       
         
                
         return(       
