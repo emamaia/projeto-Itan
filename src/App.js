@@ -4,6 +4,7 @@ import Nav from './components/Nav'
 import Home from './paginas/Home'
 import Historia from './paginas/Historia'
 import Sobre from './paginas/Sobre'
+import Erro from './paginas/Erro'
 import Footer from './components/Footer'
 
 
@@ -19,6 +20,7 @@ function App() {
           <Route exact path='/' component={Home} />
           <Route path='/sobre' component={Sobre} />
           <Route path='/historia' component={Historia} />
+          <Route path='/erro' component={Erro} />
           
         </div>
       </Switch>

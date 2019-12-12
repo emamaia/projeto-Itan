@@ -8,13 +8,15 @@ import principal from '../../assets/principal.png'
 
 
 import './style.css'
+import CaixaTexto from '../../components/CaixaTexto';
 
 class Home  extends React.Component{
     constructor(props){
         super(props)
         this.state = {
             dica: [],
-            dicaAtual: []
+            dicaAtual: [],
+            msgErro:[]
         }
     }
 
@@ -34,17 +36,28 @@ class Home  extends React.Component{
             })
     }
 
-    handleMudaPista = () => {
+    handleMudaPista = (e) => {
         let mudaIndex = this.state.index + 1
         this.setState({
             dicaAtual: this.state.dica[mudaIndex],
             index: mudaIndex
         })
+      
     }
-       
+
+    handleErro = () => {
+              this.setState({
+                msgErro: this.state.dica[5]            
+             })
+             this.props.history.push({
+                 pathname: '/erro'
+             })
+             
+    }      
+
+
     render(){       
-        
-               
+                       
         return(       
         <div>
             <Header 
@@ -55,16 +68,22 @@ class Home  extends React.Component{
             instrucao='Você pode fazer parte desta rede e ajudar Inaê? Basta seguir as pistas para acharmos ITAN:'                     
             />        
             
+            {this.state.dicaAtual == this.state.dica[4] ? 
             
-          <div className='game-container'>
             <div className='game-pista'>
                 <h3>{this.state.dicaAtual.titulo}</h3>
                 <p>{this.state.dicaAtual.descricao}</p>
-            </div>
+            </div> : 
+            <div className='game-container'>
+                 <div className='game-pista'>                      
+                     <h3>{this.state.dicaAtual.titulo}</h3>
+                     <p>{this.state.dicaAtual.descricao}</p>
+                     
+                 </div>
 
             <div className='game-options'>
                 <Button
-                handleClick={this.handleMudaPista}
+                handleClick={this.handleErro}
                 >
                     {this.state.dicaAtual.opcao1}
                 </Button>
@@ -76,13 +95,13 @@ class Home  extends React.Component{
                 </Button>
 
                 <Button
-                handleClick={this.handleMudaPista}
+                handleClick={this.handleErro}
                 >
                     {this.state.dicaAtual.opcao3}
                 </Button>
 
                 <Button
-                handleClick={this.handleMudaPista}
+                handleClick={this.handleErro}
                 >
                     {this.state.dicaAtual.opcao4}
                 </Button>
@@ -91,6 +110,8 @@ class Home  extends React.Component{
                 
             
         </div>
+    }
+          
 
         </div>
      )  

@@ -24,4 +24,14 @@
     flex-direction: column;
 }
 
+@media (max-width: 720px) {
+    .link-container {
+        width: 70%;
+    }
+}
 
+@media (max-width: 440px) {
+    .link-container {
+        width: 90%;
+    }
+}
