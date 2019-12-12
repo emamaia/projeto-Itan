@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/projeto-Itan/static/css/main.56cb73bf.chunk.css",
-    "main.js": "/projeto-Itan/static/js/main.af9dc8ed.chunk.js",
-    "main.js.map": "/projeto-Itan/static/js/main.af9dc8ed.chunk.js.map",
+    "main.css": "/projeto-Itan/static/css/main.671c811d.chunk.css",
+    "main.js": "/projeto-Itan/static/js/main.73b9c63f.chunk.js",
+    "main.js.map": "/projeto-Itan/static/js/main.73b9c63f.chunk.js.map",
     "runtime-main.js": "/projeto-Itan/static/js/runtime-main.2257c15d.js",
     "runtime-main.js.map": "/projeto-Itan/static/js/runtime-main.2257c15d.js.map",
     "static/js/2.fae2599d.chunk.js": "/projeto-Itan/static/js/2.fae2599d.chunk.js",
     "static/js/2.fae2599d.chunk.js.map": "/projeto-Itan/static/js/2.fae2599d.chunk.js.map",
     "index.html": "/projeto-Itan/index.html",
-    "precache-manifest.0af985a332792da0969ce4309e81c272.js": "/projeto-Itan/precache-manifest.0af985a332792da0969ce4309e81c272.js",
+    "precache-manifest.859a17dd11ac0778bb407fdcb32e8194.js": "/projeto-Itan/precache-manifest.859a17dd11ac0778bb407fdcb32e8194.js",
     "service-worker.js": "/projeto-Itan/service-worker.js",
-    "static/css/main.56cb73bf.chunk.css.map": "/projeto-Itan/static/css/main.56cb73bf.chunk.css.map",
+    "static/css/main.671c811d.chunk.css.map": "/projeto-Itan/static/css/main.671c811d.chunk.css.map",
     "static/js/2.fae2599d.chunk.js.LICENSE": "/projeto-Itan/static/js/2.fae2599d.chunk.js.LICENSE",
     "static/media/logo.png": "/projeto-Itan/static/media/logo.31d5efad.png",
     "static/media/style.css": "/projeto-Itan/static/media/mapa1.66b8097f.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.2257c15d.js",
     "static/js/2.fae2599d.chunk.js",
-    "static/css/main.56cb73bf.chunk.css",
-    "static/js/main.af9dc8ed.chunk.js"
+    "static/css/main.671c811d.chunk.css",
+    "static/js/main.73b9c63f.chunk.js"
   ]
 }

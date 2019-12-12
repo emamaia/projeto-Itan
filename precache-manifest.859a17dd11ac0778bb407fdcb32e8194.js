@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c627629d171d40c2b394d3b0bb21ae67",
+    "revision": "5d4b54fb058e9d138f37621b330ee90c",
     "url": "/projeto-Itan/index.html"
   },
   {
-    "revision": "8516ce3719290b2fc933",
-    "url": "/projeto-Itan/static/css/main.56cb73bf.chunk.css"
+    "revision": "1c5f26536dc259d4f251",
+    "url": "/projeto-Itan/static/css/main.671c811d.chunk.css"
   },
   {
     "revision": "60a3fb5357e6d80b36d9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/projeto-Itan/static/js/2.fae2599d.chunk.js.LICENSE"
   },
   {
-    "revision": "8516ce3719290b2fc933",
-    "url": "/projeto-Itan/static/js/main.af9dc8ed.chunk.js"
+    "revision": "1c5f26536dc259d4f251",
+    "url": "/projeto-Itan/static/js/main.73b9c63f.chunk.js"
   },
   {
     "revision": "67dfb3a7c6f9506c348a",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "31d5efadbfd657d55765194e0d323103",
     "url": "/projeto-Itan/static/media/logo.31d5efad.png"
+  },
+  {
+    "revision": "3a9281b1c391a5828f780d920ae8373c",
+    "url": "/projeto-Itan/static/media/logo3.3a9281b1.png"
   },
   {
     "revision": "66b8097f292c90fd9f1a8494b58465de",

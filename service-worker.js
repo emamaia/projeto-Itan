@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/projeto-Itan/precache-manifest.0af985a332792da0969ce4309e81c272.js"
+  "/projeto-Itan/precache-manifest.859a17dd11ac0778bb407fdcb32e8194.js"
 );
 
 self.addEventListener('message', (event) => {
