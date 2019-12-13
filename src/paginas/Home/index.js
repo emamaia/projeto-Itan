@@ -36,7 +36,7 @@ class Home  extends React.Component{
             })
     }
 
-    handleMudaPista = (e) => {
+    handleMudaPista = () => {
         let mudaIndex = this.state.index + 1
         this.setState({
             dicaAtual: this.state.dica[mudaIndex],
