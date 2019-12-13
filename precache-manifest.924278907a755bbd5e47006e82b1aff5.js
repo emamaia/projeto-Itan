@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d4b54fb058e9d138f37621b330ee90c",
+    "revision": "34c9961170260cbc61e8c7a8286d9001",
     "url": "/projeto-Itan/index.html"
   },
   {
-    "revision": "1c5f26536dc259d4f251",
-    "url": "/projeto-Itan/static/css/main.671c811d.chunk.css"
+    "revision": "36903a79d3667ac5deb2",
+    "url": "/projeto-Itan/static/css/main.d5d22a7f.chunk.css"
   },
   {
-    "revision": "60a3fb5357e6d80b36d9",
-    "url": "/projeto-Itan/static/js/2.fae2599d.chunk.js"
+    "revision": "47c71abac6a0dbf4d4b6",
+    "url": "/projeto-Itan/static/js/2.9e012704.chunk.js"
   },
   {
     "revision": "84a2a7a390df1ac99fa4fadf23155e60",
-    "url": "/projeto-Itan/static/js/2.fae2599d.chunk.js.LICENSE"
+    "url": "/projeto-Itan/static/js/2.9e012704.chunk.js.LICENSE"
   },
   {
-    "revision": "1c5f26536dc259d4f251",
-    "url": "/projeto-Itan/static/js/main.73b9c63f.chunk.js"
+    "revision": "36903a79d3667ac5deb2",
+    "url": "/projeto-Itan/static/js/main.4c77e74d.chunk.js"
   },
   {
     "revision": "67dfb3a7c6f9506c348a",
