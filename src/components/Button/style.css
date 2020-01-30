@@ -11,9 +11,6 @@
     box-shadow: 2px 2px 2px 2px #003E1F;
 }
 
-.btn:hover{
-    background-color:#73BA9B; 
-}
 
 @media (max-width: 440px) {
     .btn {
