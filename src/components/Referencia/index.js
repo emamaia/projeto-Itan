@@ -9,7 +9,7 @@ function Referencia(props) {
            
                     <h3 className='caixa-descricao'> REFERÊNCIAS:</h3>
 
-                    <ul>
+                    <ul className='caixa-lista'>
                         <li className='caixa-descrição'>BETHELL, Leslie. A Abolição do comércio brasileiro de escravos: a Grã-Bretanha, o Brasil e a questão do comércio de escravos 1807-1869. Tradução: Luís A.P. Souto Maior. Brasília: Senado Federal, Conselho Editorial, 2002. 478p</li>
                         <li className='caixa-descrição'>BRITO, Luciana da Cruz. Temores da África: segurança, legislação e população africana na Bahia oitocentista. Salvador: EDUFBA, 2016, 229 p.</li>
                         <li className='caixa-descrição'>CASTILLO, Lisa Earl. PARÉS, Luis Nicolau. Marcelina da Silva e seu mundo: novos dados para a historiografia do candomblé Ketu. Afro-Ásia, 36 (2007), 111-151.</li>
