@@ -33,8 +33,9 @@ class Home  extends React.Component{
             })
             .catch(error => {
                 console.error(error)
-            })
+            })           
     }
+    
 
     handleMudaPista = () => {
         let mudaIndex = this.state.index + 1
